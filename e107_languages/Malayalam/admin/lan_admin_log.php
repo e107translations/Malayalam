@@ -9,22 +9,21 @@
 |        $Author: Arun $
 +---------------------------------------------------------------+
 */
-
 define("RL_LAN_002", "റോളിംഗ് ലോഗ്");
 define("RL_LAN_005", "സിസ്റ്റം ലോഗുകൾ കോൺഫിഗർ ചെയ്യുക/കാണുക");
 define("RL_LAN_008", "റോളിംഗ് ലോഗ് സജീവമാണ്:");
 define("RL_LAN_009", "റോളിംഗ് ലോംഗ് ചരിത്ര ദൈർഘ്യം ദിവസങ്ങളിൽ");
 define("RL_LAN_012", "ഫിൽട്ടർ ഓപ്ഷനുകൾ");
 define("RL_LAN_013", "ആരംഭിക്കുന്ന തീയതി/സമയം");
-define("RL_LAN_014", "");
-define("RL_LAN_015", "");
+define("RL_LAN_014", "അവസാനിക്കുന്ന തീയതി/സമയം");
+define("RL_LAN_015", "ഉപയോക്തൃ ഐഡി ഫിൽട്ടർ");
 define("RL_LAN_016", "");
 define("RL_LAN_017", "");
-define("RL_LAN_018", "");
+define("RL_LAN_018", "ലോഗ് പുതുക്കുക");
 define("RL_LAN_019", "");
 define("RL_LAN_020", "");
-define("RL_LAN_023", "");
-define("RL_LAN_024", "");
+define("RL_LAN_023", "ഇവന്റ് തരം");
+define("RL_LAN_024", "മുതൽ");
 define("RL_LAN_025", "");
 define("RL_LAN_026", "");
 define("RL_LAN_028", "");
@@ -35,7 +34,7 @@ define("RL_LAN_032", "");
 define("RL_LAN_033", "");
 define("RL_LAN_044", "");
 define("RL_LAN_045", "");
-define("RL_LAN_046", "");
+define("RL_LAN_046", "ദിവസങ്ങൾ");
 define("RL_LAN_047", "");
 define("RL_LAN_049", "");
 define("RL_LAN_050", "");
