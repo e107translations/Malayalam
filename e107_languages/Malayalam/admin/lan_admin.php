@@ -382,6 +382,8 @@ define("LAN_ENGINE", "എഞ്ചിൻ");
 define("LAN_SOURCE", "ഉറവിടം");
 define("LAN_ERROR_CONNECTION", "അപ്ഡേറ്റുകൾക്കായി കണക്റ്റുചെയ്യാനായില്ല. ദയവായി ഫയർവാൾ കൂടാതെ/ അല്ലെങ്കിൽ ഇന്റർനെറ്റ് കണക്ഷൻ പരിശോധിക്കുക.");
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] എന്നത് [y] പോലെ ആകാൻ പാടില്ല");
+define("LAN_UI_VIEW_GRID_LABEL", "ഗ്രിഡ് കാഴ്ച്ച");
+define("LAN_UI_VIEW_LIST_LABEL", "പട്ടികാ കാഴ്ച്ച");
 
 
 ?>
