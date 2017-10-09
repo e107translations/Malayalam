@@ -1,0 +1,150 @@
+<?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Malayalam Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/10/05 22:40:08
+|
+|        $Author: Arun $
++---------------------------------------------------------------+
+*/
+define("NWSLAN_4", "ന്യൂസ് - നിലവിലുള്ള ന്യൂസ്");
+define("NWSLAN_6", "വിഭാഗം");
+define("NWSLAN_10", "ന്യൂസ് വിഭാഗങ്ങളില്ല");
+define("NWSLAN_13", "ബോഡി");
+define("NWSLAN_14", "വിപുലീകരിച്ചത്");
+define("NWSLAN_18", "ഈ ന്യൂസ് ഇനത്തിലേക്ക് അഭിപ്രായങ്ങൾ പോസ്റ്റുചെയ്യാൻ അനുവദിക്കുക");
+define("NWSLAN_19", "സജീവമാക്കൽ");
+define("NWSLAN_21", "സജീവമാക്കുക, ഇടക്ക്");
+define("NWSLAN_24", "വീണ്ടും പ്രിവ്യൂ ചെയ്യുക");
+define("NWSLAN_25", "ഡാറ്റാബേസിലെ ന്യൂസ് അപ്ഡേറ്റുചെയ്യുക");
+define("NWSLAN_26", "ഡാറ്റാബേസിൽ ന്യൂസ് പോസ്റ്റ് ചെയ്യൂ");
+define("NWSLAN_27", "പ്രിവ്യൂ ചെയ്യുക");
+define("NWSLAN_29", "ന്യൂസ് - പുതിയ ഇനം ചേർക്കുക");
+define("NWSLAN_29a", "ന്യൂസ് - നിലവിലെ ഇനം അപ്ഡേറ്റ് ചെയ്യുക");
+define("NWSLAN_31", "ന്യൂസ് ഇനം");
+define("NWSLAN_32", "ഇല്ലാതാക്കി");
+define("NWSLAN_33", "ന്യൂസ് വിഭാഗം");
+define("NWSLAN_34", "സമർപ്പിച്ച ന്യൂസ് ഇനം");
+define("NWSLAN_35", "ന്യൂസ് വിഭാഗം സംരക്ഷിച്ചു");
+define("NWSLAN_36", "ന്യൂസ് വിഭാഗം അപ്ഡേറ്റ് ചെയ്തു");
+define("NWSLAN_37", "ഈ വിഭാഗം ഇല്ലാതാക്കണമെന്ന് നിങ്ങൾക്ക് തീർച്ചയാണോ?");
+define("NWSLAN_38", "സമർപ്പിച്ച ന്യൂസ് ഇനം ഇല്ലാതാക്കണമെന്ന് നിങ്ങൾക്ക് തീർച്ചയാണോ?");
+define("NWSLAN_39", "ഈ ന്യൂസ് ഇനം ഇല്ലാതാക്കണമെന്ന് നിങ്ങൾക്ക് തീർച്ചയാണോ?");
+define("NWSLAN_43", "ന്യൂസ് ഇനങ്ങളൊന്നുമില്ല");
+define("NWSLAN_44", "ന്യൂസ് ഫ്രണ്ട് പേജ്");
+define("NWSLAN_45", "ന്യൂസ് ഇനം സൃഷ്ടിക്കുക");
+define("NWSLAN_46", "വിഭാഗങ്ങൾ");
+define("NWSLAN_46a", "ന്യൂസ് - വിഭാഗങ്ങൾ");
+define("NWSLAN_47", "സമർപ്പിച്ച ന്യൂസ് ഇനങ്ങൾ");
+define("NWSLAN_48", "ന്യൂസ് ഓപ്ഷനുകൾ");
+define("NWSLAN_49", "സമർപ്പിച്ചത്");
+define("NWSLAN_51", "നിലവിലുള്ള ന്യൂസ് വിഭാഗങ്ങൾ");
+define("NWSLAN_52", "വിഭാഗത്തിന്റെ പേര്");
+define("NWSLAN_53", "വിഭാഗത്തിന്റെ ഐക്കൺ");
+define("NWSLAN_54", "ഇമേജുകൾ കാണുക");
+define("NWSLAN_55", "ന്യൂസ് വിഭാഗം അപ്ഡേറ്റ് ചെയ്യുക");
+define("NWSLAN_56", "ന്യൂസ് വിഭാഗം സൃഷ്ടിക്കുക");
+define("NWSLAN_57", "ഇനം");
+define("NWSLAN_58", "പോസ്റ്റ്");
+define("NWSLAN_59", "സമർപ്പിച്ച വാർത്തകളൊന്നുമില്ല");
+define("NWSLAN_63", "ന്യൂസ്പോസ്റ്റുകൾ തിരയുക");
+define("NWSLAN_66", "അപ്ലോഡ് ചെയ്യുക");
+define("NWSLAN_67", "ചിത്രം/വീഡിയോ");
+define("NWSLAN_69", "ന്യൂസ് ഇനങ്ങളിൽ ഉപയോഗിക്കുന്നതിന് ഒരു ഇമേജ് അല്ലെങ്കിൽ ഫയൽ അപ്ലോഡുചെയ്യുക");
+define("NWSLAN_72", "ചില തീയതികൾക്കിടയിൽ മാത്രം ന്യൂസ് ഇനം കാണിക്കുക");
+define("NWSLAN_74", "എങ്ങനെയാണ്, എവിടെയാണ് ന്യൂസ് ഇനം പോസ്റ്റ് ചെയ്യേണ്ടതു എന്ന് തിരഞ്ഞെടുക്കുക");
+define("NWSLAN_75", "ഡീഫോൾട് - മുൻ പേജിൽ പോസ്റ്റ് ചെയ്യൂ");
+define("NWSLAN_76", "ടൈറ്റിൽ മാത്രം - മുൻ പേജിൽ പോസ്റ്റ് ചെയ്യൂ");
+define("NWSLAN_77", "മറ്റ് ന്യൂസ് മെനുവിലേക്ക് പോസ്റ്റ് ചെയ്യുക");
+define("NWSLAN_83", "വിപുലമായ ന്യൂസ് പോസ്റ്റ്");
+define("NWSLAN_84", "ഏതു സന്ദർശകർ ന്യൂസ് ഇനം കാണണമെന്ന് തിരഞ്ഞെടുക്കുക");
+define("NWSLAN_86", "ന്യൂസ്-വിഭാഗ ഫൂട്ടർ മെനു");
+define("NWSLAN_87", "ന്യൂസ് വിഭാഗത്തിന്റെ നിരകൾ");
+define("NWSLAN_88", "ഡീഫോൾട് - പേജ് വീതമുള്ള കാഴ്ച പരിധി");
+define("NWSLAN_90", "ന്യൂസ് മുൻഗണനകൾ");
+define("NWSLAN_100", "ന്യൂസ് സമർപ്പിക്കൽ പേജിൽ ഇമേജ് അപ്ലോഡിംഗ് പ്രാപ്തമാക്കുക");
+define("NWSLAN_101", "സമർപ്പിച്ച ചിത്രത്തിന്റെ വലുപ്പം സ്വയംപ്രേരിതമായി മാറ്റുക");
+define("NWSLAN_102", "വീതി പിക്സലിൽ അല്ലെങ്കിൽ അപ്രാപ്തമാക്കാൻ ശൂന്യമായി വിടുക.");
+define("NWSLAN_103", "വീണ്ടും പോസ്റ്റുചെയ്യുക");
+define("NWSLAN_104", "വഴിയായി");
+define("NWSLAN_105", "ന്യൂസ് ഇനത്തിന്റെ  തീയതി-സ്റ്റാമ്പ് നിലവിലെ സമയത്തിലേക്ക് അപ്ഡേറ്റ് ചെയ്യുന്നതിനായി ചെക്ക് ബോക്സ് ചെക്ക് ചെയ്യുക");
+define("NWSLAN_106", "ന്യൂസ് സമർപ്പിക്കൽ പേജ് ആക്സസ് ചെയ്യാനാകുന്നത്:");
+define("NWSLAN_107", "ന്യൂസ് സമർപ്പിക്കൽ പേജിൽ WYSIWYG എഡിറ്റർ പ്രാപ്തമാക്കുക");
+define("NWSLAN_108", "ല്‍");
+define("NWSLAN_111", "");
+define("NWSLAN_112", "");
+define("NWSLAN_113", "");
+define("NWSLAN_114", "");
+define("NWSLAN_115", "");
+define("NWSLAN_116", "");
+define("NWSLAN_117", "");
+define("NWSLAN_120", "");
+define("NWSLAN_121", "");
+define("NWSLAN_123", "");
+define("NWSLAN_127", "");
+define("NWSLAN_128", "");
+define("LAN_NEWS_23", "");
+define("LAN_NEWS_28", "");
+define("LAN_NEWS_29", "");
+define("LAN_NEWS_30", "");
+define("LAN_NEWS_32", "");
+define("LAN_NEWS_33", "");
+define("LAN_NEWS_34", "");
+define("LAN_NEWS_35", "");
+define("LAN_NEWS_37", "");
+define("LAN_NEWS_49", "");
+define("LAN_NEWS_51", "");
+define("LAN_NEWS_52", "");
+define("LAN_NEWS_53", "");
+define("LAN_NEWS_54", "");
+define("LAN_NEWS_55", "");
+define("LAN_NEWS_56", "");
+define("LAN_NEWS_57", "");
+define("LAN_NEWS_58", "");
+define("LAN_NEWS_59", "");
+define("LAN_NEWS_60", "");
+define("LAN_NEWS_61", "");
+define("LAN_NEWS_62", "");
+define("LAN_NEWS_63", "");
+define("LAN_NEWS_64", "");
+define("LAN_NEWS_65", "");
+define("LAN_NEWS_66", "");
+define("LAN_NEWS_67", "");
+define("LAN_NEWS_68", "");
+define("LAN_NEWS_69", "");
+define("LAN_NEWS_70", "");
+define("LAN_NEWS_71", "");
+define("LAN_NEWS_72", "");
+define("LAN_NEWS_73", "");
+define("LAN_NEWS_74", "");
+define("LAN_NEWS_75", "");
+define("LAN_NEWS_87", "");
+define("LAN_NEWS_88", "");
+define("LAN_NEWS_89", "");
+define("LAN_NEWS_90", "");
+define("LAN_NEWS_91", "");
+define("LAN_NEWS_92", "");
+define("LAN_NEWS_93", "");
+define("LAN_NEWS_94", "");
+define("LAN_NEWS_95", "");
+define("LAN_NEWS_96", "");
+define("LAN_NEWS_97", "");
+define("LAN_NEWS_98", "");
+define("LAN_NEWS_99", "");
+define("LAN_NEWS_100", "");
+define("LAN_NEWS_101", "");
+define("LAN_NEWS_102", "");
+define("LAN_NEWS_103", "");
+define("LAN_NEWS_104", "");
+define("LAN_NEWS_105", "");
+define("LAN_NEWS_106", "");
+define("LAN_NEWS_107", "");
+define("LAN_NEWS_108", "");
+define("LAN_NEWS_109", "നിങ്ങൾ ഈ ഫോം സമർപ്പിക്കുമ്പോൾ ഒരു ഇമെയിൽ അറിയിപ്പ് ട്രിഗർ ചെയ്യുക.");
+define("LAN_NEWS_110", "വാർത്ത കാഷ് ടൈം ഔട്ട്");
+define("LAN_NEWS_111", "സമയം മിനിറ്റുകളിൽ. സിസ്റ്റം കാഷ് പ്രാപ്തമാക്കുമ്പോൾ മാത്രം പ്രയോഗിക്കുന്നു.");
+
+
+?>
