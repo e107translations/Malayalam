@@ -237,6 +237,7 @@ define("LAN_UPLOAD_CONFIRM", "ഈ പേജിലെ സംരക്ഷിക്
 define("LAN_UPLOAD_777", "ഫോൾഡർ കാണുന്നില്ല അല്ലെങ്കിൽ റൈറ്റ് ചെയ്യാനാവുന്നില്ല, അപ്ലോഡിങിനു മുന്പ് താഴെ പറയുന്ന ഫോൾഡർ CHMOD 777 ചെയ്യേണ്ടത് ആവശ്യമാണ്:");
 define("LAN_UPLOAD_SERVEROFF", "നിങ്ങളുടെ സെർവറിൽ ഫയൽ അപ്ലോഡുചെയ്യൽ പ്രാപ്തമാക്കാത്തതിനാൽ ഈ ഓപ്ഷൻ അപ്രാപ്തമാക്കപെട്ടിരിക്കുന്നു");
 define("LAN_WIDTH", "വീതി");
+define("LAN_HEIGHT", "ഉയരം");
 define("LAN_ON", "ഓൺ");
 define("LAN_OFF", "ഓഫ്");
 define("LAN_DISABLED", "അപ്രാപ്തമാക്കി");
@@ -263,7 +264,6 @@ define("LAN_MENULAYOUT", "മെനു ലേഔട്ട്");
 define("LAN_MEDIAMANAGER", "മീഡിയ മാനേജർ");
 define("LAN_MOREINFO", "കൂടുതൽ വിവരങ്ങൾ ...");
 define("LAN_COMMENTMAN", "അഭിപ്രായങ്ങൾ മാനേജർ");
-define("LAN_LIST", "പട്ടിക");
 define("LAN_FILTER", "ഫിൽറ്റർ ചെയ്യുക");
 define("LAN_STATUS", "സ്റ്റാറ്റസ്");
 define("LAN_URL", "URL");
@@ -384,6 +384,10 @@ define("LAN_ERROR_CONNECTION", "അപ്ഡേറ്റുകൾക്കായ
 define("LAN_UI_X_CANT_EQUAL_Y", "[x] എന്നത് [y] പോലെ ആകാൻ പാടില്ല");
 define("LAN_UI_VIEW_GRID_LABEL", "ഗ്രിഡ് കാഴ്ച്ച");
 define("LAN_UI_VIEW_LIST_LABEL", "പട്ടികാ കാഴ്ച്ച");
-
-
-?>
+define("LAN_CHECKING_FOR_UPDATES", "അപ്ഡേറ്റുകൾക്കായി പരിശോധിക്കുന്നു");
+define("LAN_UI_FILTER_NEXT_HOUR", "അടുത്ത മണിക്കൂർ");
+define("LAN_UI_FILTER_NEXT_24_HOURS", "അടുത്ത 24 മണിക്കൂർ");
+define("LAN_UI_FILTER_NEXT_WEEK", "അടുത്ത ആഴ്ച");
+define("LAN_UI_FILTER_NEXT_MONTH", "അടുത്ത മാസം");
+define("LAN_UI_FILTER_NEXT_YEAR", "അടുത്ത വർഷം");
+define("LAN_UI_FILTER_IS_EMPTY", "കാലിയാണ്");
