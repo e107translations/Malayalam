@@ -119,6 +119,7 @@ define("LAN_RE_ORDER", "പുനഃക്രമീകരിക്കുക");
 define("LAN_RELATED", "അനുബന്ധമായ");
 define("LAN_CLOSE", "അടയ്ക്കുക");
 define("LAN_EXPAND", "വിടര്‍ത്തുക");
+define("LAN_LIST", "പട്ടിക");
 define("LAN_ENTER_USRNAME_EMAIL", "നിങ്ങളുടെ ഉപയോക്തൃനാമം അല്ലെങ്കിൽ ഇമെയിൽ നൽകുക");
 define("LAN_PWD_REQUIRED", "പാസ്വേഡ് ആവശ്യമാണ്");
 define("LAN_SHOW", "കാണിക്കുക");
@@ -127,6 +128,3 @@ define("LAN_SUMMARY", "സംഗ്രഹം");
 define("LAN_REQUIRED_BLANK", "ആവശ്യമായ ഫീൽഡ് (കൾ) ശൂന്യമായി അവശേഷിപ്പിച്ചിരിക്കുന്നു");
 define("LAN_PLEASEWAIT", "ദയവായി കാത്തിരിക്കുക");
 define("LAN_CHOOSE_FILE", "ഒരു ഫയൽ തിരഞ്ഞെടുക്കുക");
-
-
-?>
